@@ -1,0 +1,6 @@
+gui_main.spec
+__pycache__/
+*.pyc
+build/
+dist/
+run.sh

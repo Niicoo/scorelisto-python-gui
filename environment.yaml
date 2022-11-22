@@ -1,0 +1,11 @@
+name: scorelisto_gui
+channels:
+  - conda-forge
+  - anaconda
+dependencies:
+  - python>=3.*
+  - numpy
+  - matplotlib
+  - pyqt
+  - scipy
+  - lxml
